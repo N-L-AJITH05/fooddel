@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useState,useContext } from 'react'
-import './Navbar.css'
+import './navbar.css'
 import { assets } from '../../assets/assets'
 import { Link } from 'react-router-dom'
 import { StoreContext } from '../../Context/StoreContext'
